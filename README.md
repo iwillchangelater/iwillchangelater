@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iwillchangelater
 - 👀 I’m interested in React , React native , Web develop
 - 🌱 I’m currently learning React , React native
-- 💞️ I’m looking to collaborate on Realtime App , API server
+- 💞️ I’m looking to collaborate on Realtime App , API server , GPS MAP related app , 3d programming
 - 📫 How to reach me lkhagvasurenjargalsaikhan@gmail.com 
